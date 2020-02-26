@@ -1,0 +1,23 @@
+.cart{
+    height: 55.5px;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-bottom: 1px solid #E4E4E4;
+    text-align: center;
+    line-height: 60px;
+}
+
+/* @font-face{
+    font-family: "AirbnbCerealMedium";
+    src: url('./AirbnbCerealMedium.ttf') format('embedded-opentype'),
+    url('./AirbnbCerealMedium.ttf') format('opentype')
+} */
+.div-cart{
+    border-radius: 18px 18px 18px 18px;
+    background-color: #5DDEFF;
+    color:white;
+    text-align: center;
+    padding-left: 6px;
+    padding-right: 6px;
+}

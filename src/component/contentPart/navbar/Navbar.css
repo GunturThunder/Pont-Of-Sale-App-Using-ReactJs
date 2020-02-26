@@ -1,0 +1,24 @@
+.content{
+    width: 92.59%;
+    height: 91.5vh;
+    background-color: #D8D8D8;
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow: scroll;
+}
+.card{
+    text-align: center;
+    width: 254.5px;
+    height: 340px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 15px;
+    float: left;
+    border-radius: 12px 12px 0 0;
+}
+
+.content-product{
+    float: left;
+}
