@@ -1,8 +1,54 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Point-Of-Sales-App
+### Table of Contents
+You're sections headers will be used to reference location of destination.
 
-## Available Scripts
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [License](#license)
 
-In the project directory, you can run:
+---
+
+## Description
+
+This named Point-Of-Sales-App can insert data, update data, delete data etc and separate by endpont
+
+#### Technologies
+##### Backend
+- body-parser
+- cors
+- dotenv
+- express
+- morgan
+- multer
+- mysql
+- nodemon
+- VSC
+- Postman
+- Xampp
+##### FrontEnd
+-axios
+-react-dom
+-react-router-dom
+-react-scripts
+
+---
+
+## How To Use
+- If you’re learning React or creating a new single-page app, use Create React App.
+- npm i axios
+- npm i react-dom
+- npm i react-router-dom
+#### Installation
+- npm install
+- npm init
+- npm install express
+- npm install nodemon
+- npm install morgan
+- npm install body-parser
+- npm install mysql
+- npm install dotenv
+- npm install jsonwebtoken
+- npm install cors
 
 ### `npm start`
 
@@ -27,42 +73,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+MIT License
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Copyright (c) [2020] [Guntur Angkasa Putra]
