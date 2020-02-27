@@ -26,10 +26,10 @@ This named Point-Of-Sales-App Using React can insert data, update data, delete d
 - Postman
 - Xampp
 ##### FrontEnd
--axios
--react-dom
--react-router-dom
--react-scripts
+- axios
+- react-dom
+- react-router-dom
+- react-scripts
 
 ---
 
