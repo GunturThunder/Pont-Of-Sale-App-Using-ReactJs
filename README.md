@@ -10,7 +10,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-This named Point-Of-Sales-App can insert data, update data, delete data etc and separate by endpont
+This named Point-Of-Sales-App Using React can insert data, update data, delete data etc from the website using the react js teachnology
 
 #### Technologies
 ##### Backend
